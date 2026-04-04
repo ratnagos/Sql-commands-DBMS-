@@ -1,0 +1,2 @@
+create table student(Rollno int PRIMARY KEY,fname varchar(15),lname varchar (15), coursename varchar (15),
+NOT NULL, Major varchar (15),Emailid varchar (15));

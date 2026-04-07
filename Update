@@ -1,0 +1,4 @@
+UPDATE student 
+SET Major = 'BBM' 
+WHERE Rollno = 1
+;

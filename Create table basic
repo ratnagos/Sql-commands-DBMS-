@@ -1,2 +1,5 @@
-create table student(Rollno int PRIMARY KEY,fname varchar(15),lname varchar (15), coursename varchar (15),
-NOT NULL, Major varchar (15),Emailid varchar (15));
+
+2.create a table with specific Data                                                                 
+
+>create table student(Rollno int PRIMARY KEY,fname varchar(15),lname varchar (15), coursename varchar (15),
+NOT NULL, Major varchar(15),Emailid varchar (15));

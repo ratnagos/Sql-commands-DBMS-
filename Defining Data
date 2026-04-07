@@ -1,0 +1,14 @@
+1.Create a new database.   
+                         
+>Create Database Students;
+
+2.create a table with specific Data                                                                 
+
+>create table student(Rollno int PRIMARY KEY,fname varchar(15),lname varchar (15), coursename varchar (15),
+NOT NULL, Major varchar(15),Emailid varchar (15));
+
+3. Insert into the table of students Data 
+
+> insert INTO Student VALUES (1,'Aradhya' , 'Singh' , ' BBM' , ' Business ' , 'aradhya@gmail.com');
+> insert INTO Student VALUES (2,' Aarya' , 'Sawant' , ' BAF' , ' Finance ' , 'aarya3@gmail.com');
+>insert INTO Student VALUES (3,' Aashmi' , ' K ' , ' BSCIT ' , ' IT ' , 'aashmi@gmail.com');
